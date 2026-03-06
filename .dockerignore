@@ -1,0 +1,13 @@
+__pycache__
+*.pyc
+.git
+.vscode
+*.md
+input1.txt
+v2.py
+Bigram.py
+.env
+.venv
+venv
+*.pth
+!tiny_transformer.pth
