@@ -347,7 +347,3 @@ This project is licensed under the MIT License - see [LICENSE](LICENSE) file for
 💡 **Questions or suggestions?** Open an issue or reach out!
 
 ---
-
-*Built with ❤️ and a deep appreciation for the elegance of the Transformer architecture*
-
----
