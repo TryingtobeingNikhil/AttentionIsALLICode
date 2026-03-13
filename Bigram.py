@@ -4,9 +4,8 @@ import torch
 import torch.nn as nn
 from torch.nn import functional as F
 
-# -------------------
 # hyperparameters
-# -------------------
+
 batch_size = 32        # how many independent sequences will we process in parallel?
 block_size = 8         # what is the maximum context length for predictions?
 max_iters = 3000
@@ -17,9 +16,8 @@ eval_iters = 200
 
 torch.manual_seed(1337)
 
-# -------------------
 # load dataset
-# -------------------
+
 
 if not os.path.exists("input.txt"):
     print("Downloading dataset...")
@@ -105,18 +103,16 @@ class BigramLanguageModel(nn.Module):
             idx_next = torch.multinomial(probs, num_samples=1)  # sample
             idx = torch.cat((idx, idx_next), dim=1)  # append
         return idx
-
-# -------------------
+        
 # initialize model
-# -------------------
+
 model = BigramLanguageModel(vocab_size)
 m = model.to(device)
 
 optimizer = torch.optim.AdamW(model.parameters(), lr=learning_rate)
 
-# -------------------
 # training loop
-# -------------------
+
 for iter in range(max_iters):
 
     # evaluate loss periodically
