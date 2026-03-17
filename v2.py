@@ -71,7 +71,7 @@ def estimate_loss():
     return out
 
 
-# -----------------------------
+
 # Self-Attention Head
 
 
