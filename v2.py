@@ -73,7 +73,7 @@ def estimate_loss():
 
 # -----------------------------
 # Self-Attention Head
-# -----------------------------
+
 
 class Head(nn.Module):
     """ one head of self-attention """
