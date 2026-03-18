@@ -4,7 +4,7 @@ from torch.nn import functional as F
 
 
 # CONFIG
-# ------------------
+
 
 block_size = 128
 n_embd = 192
