@@ -132,11 +132,7 @@ class Block(nn.Module):
         x = x+self.ffwd(self.ln2(x))
         return x
 
-
-# -----------------------------
 # Language Model with Attention
-# -----------------------------
-
 
 class BigramLanguageModel(nn.Module):
     def __init__(self, vocab_size):
