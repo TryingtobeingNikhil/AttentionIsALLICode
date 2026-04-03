@@ -72,7 +72,7 @@ AttentionIsALLICode/
 ├── LICENSE                     # MIT License
 └── README.md                   # This file
 
-## 🔑 Key Components Explained
+##  Key Components Explained
 
 ### 1. Multi-Head Attention
 ```python
