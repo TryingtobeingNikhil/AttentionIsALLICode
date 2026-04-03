@@ -17,7 +17,7 @@ This project implements every component of the Transformer architecture without 
 - ✅ **Masked attention** - For autoregressive generation in decoder 
 - ✅ **Feed-forward networks** - Position-wise fully connected layers 
 
-## 🏗️ Architecture Details
+## 🏗️ Architecture Details 
 
 ```text
 Transformer Model
