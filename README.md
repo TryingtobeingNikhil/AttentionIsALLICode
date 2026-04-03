@@ -11,7 +11,7 @@ Complete implementation of the Transformer architecture from the seminal paper [
 This project implements every component of the Transformer architecture without relying on PyTorch's built-in transformer modules, including:
 
 - ✅ **Multi-head self-attention mechanisms** - Scaled dot-product attention with parallel heads
-- ✅ **Positional encoding** - Sine-cosine encoding for sequence position information
+- ✅ **Positional encoding** - Sine  cosine encoding for sequence position information
 - ✅ **Encoder-decoder architecture** - Complete 6-layer encoder and decoder stacks
 - ✅ **Layer normalization and residual connections** - Stabilization techniques
 - ✅ **Masked attention** - For autoregressive generation in decoder 
