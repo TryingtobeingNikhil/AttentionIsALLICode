@@ -234,7 +234,7 @@ for epoch in range(num_epochs):
         print(f"Epoch {epoch}, Loss: {loss.item():.4f}")
 ```
 
-## 🔍 Implementation Highlights
+## 🔍 Implementation Highlightss
 
 ### Scaled Dot-Product Attention
 ```python
