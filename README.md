@@ -6,7 +6,7 @@
 
 Complete implementation of the Transformer architecture from the seminal paper ["Attention Is All You Need"](https://arxiv.org/abs/1706.03762) (Vaswani et al.,2017) built entirely from first principles using PyTorch. **No pre-built transformer layers used**  every component implemented from scratch to demonstrate deep understanding of the architecture.
 
-## 🎯 Overview
+## 🎯Overview
 
 This project implements every component of the Transformer architecture without relying on PyTorch's built-in transformer modules, including:
 
