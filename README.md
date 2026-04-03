@@ -15,7 +15,7 @@ This project implements every component of the Transformer architecture without 
 - ✅ **Encoder-decoder architecture** - Complete 6-layer encoder and decoder stacks
 - ✅ **Layer normalization and residual connections** - Stabilization techniques
 - ✅ **Masked attention** - For autoregressive generation in decoder
-- ✅ **Feed-forward networks** - Position-wise fully connected layers
+- ✅ **Feed-forward networks** - Position-wise fully connected layers 
 
 ## 🏗️ Architecture Details
 
