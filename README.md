@@ -4,7 +4,7 @@
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-ee4c2c.svg)](https://pytorch.org/)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 
-Complete implementation of the Transformer architecture from the seminal paper ["Attention Is All You Need"](https://arxiv.org/abs/1706.03762) (Vaswani et al.,2017) built entirely from first principles using PyTorch. **No pre-built transformer layers used**  every component implemented from scratch to demonstrate deep understanding of the architecture....
+Complete implementation of the Transformer architecture from the seminal paper ["Attention Is All You Need"](https://arxiv.org/abs/1706.03762) (Vaswani et al.,2017) built entirely from first principles using PyTorch. **No pre-built transformer layers used**  every component implemented from scratch to demonstrate deep understanding of the architecture...
 
 ## 🎯Overview
 
