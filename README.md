@@ -1,4 +1,4 @@
-# Transformer Architecture - Complete PyTorch Implementation from Scratch
+# Transformer Architecture - Complete PyTorch Implementation from Scratch....
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-ee4c2c.svg)](https://pytorch.org/)
